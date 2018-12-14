@@ -1,2 +1,3 @@
 # IC_Comparison
-Source code for blog post at https://hautahi.com/ic_comparison
+
+Jupyter Notebook source code for blog post comparing four different implementations of Independent Cascade model.
